@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Federico
 
-<!--
-**basso1995/basso1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior ML Engineer** | Building scalable AI/ML solutions in Production  
+🔍 Experience across **Insurance, Finance, Manufacturing & Robotics**  
 
-Here are some ideas to get you started:
+💡 Passionate about **Data**, **Feature Stores**, **LLMs**, and **Deep Learning**  
+🛠️ **Python**, **FastAPI**, **PySpark**, **Kafka**, **TensorFlow**, **PyTorch**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently:** Leading ML initiatives at [Prima Assicurazioni](https://www.prima.it/), focusing on Feature Stores and LLM-based applications  
+💼 **Previously:**  
+- **AutoML for Finance @ Axyon AI**
+- **Predictive Maintenance @ Philip Morris**
+- **Deep RL for Robotics @ Zhejiang University**
+
+🏢 Contributing to [PyCon Italy](https://pycon.it/)  
+🥋 When not coding: **Calisthenics & Brazilian Jiu-Jitsu** enthusiast
+
+🌏 Italy-based 🇮🇹 | Worked & studied in China 🇨🇳  
+
+📫 How to reach me: [bassetto.federico@gmail.com](mailto:bassetto.federico@gmail.com)
