@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Federico
 
-🚀 **Senior ML Engineer** | Building scalable AI/ML solutions in Production  
+🦖 **Senior ML Engineer** | Building scalable AI/ML solutions in Production  
 🔍 Experience across **Insurance, Finance, Manufacturing & Robotics**  
 
 💡 Passionate about **Data**, **Feature Stores**, **LLMs**, and **Deep Learning**  
