@@ -19,4 +19,4 @@
 
 📫 How to reach me: [bassetto.federico@gmail.com](mailto:bassetto.federico@gmail.com)
 
-Link to updated CV -> [Here](https://drive.google.com/file/d/1y7BBBu2Q3_NJKaBv3V31iv0EunqcAEUB/view?usp=sharing)
+Link to updated CV ➡️ [Here](https://drive.google.com/file/d/1y7BBBu2Q3_NJKaBv3V31iv0EunqcAEUB/view?usp=sharing)
